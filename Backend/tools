@@ -1,0 +1,7 @@
+Express: Core framework for handling routes and requests.
+Body-parser: For parsing incoming request bodies.
+Dotenv: For environment variables.
+Cors: Handling cross-origin resource sharing.
+Web3: Blockchain interaction.
+PG: PostgreSQL client.
+JWT (jsonwebtoken): If authentication is needed.
