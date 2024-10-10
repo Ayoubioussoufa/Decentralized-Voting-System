@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.container {
+    margin: 0 auto;
+    border: 1px solid hsl(0, 0%, 90%);
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+input {
+    border: 1px solid hsl(0, 0%, 90%);
+    border-radius: 5px;
+}
